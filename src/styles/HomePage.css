@@ -1,0 +1,19 @@
+.homeContainer {
+
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: linear-gradient(rgba(1, 0, 3, 0.918),rgba(241, 6, 6, 0.87)), url("https://sinci.com/wp-content/uploads/2019/10/Sistemas-de-Automatizaci%C3%B3n-y-Control-de-Procesos-Industriales-4.jpeg");
+    background-size: cover; 
+    display: 'flex';
+    flex-Wrap: 'wrap';
+
+}
+.homeContent {
+  text-align: center;
+  margin-top: 50px;
+  color: aliceblue;
+  padding-bottom: 4%;
+  display: 'flex';
+  flex-Wrap: 'wrap';
+}
